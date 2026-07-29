@@ -36,7 +36,7 @@ test
 ./push_swap "5 2 4 1 3"
 ./push_swap 5 2 4 1 3
 
-## Final Gate ก่อนกดส่ง
+## Final Gate 
 
 ```bash
 make fclean
